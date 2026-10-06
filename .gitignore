@@ -1,0 +1,8 @@
+build/
+output/
+*.xcodeproj/
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.zip
